@@ -1,0 +1,285 @@
+
+***Navigator***
+
+Opened File
+Ports loaded: 36
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Port From Route
+4. Reverse Route
+5. Exit
+1
+1. Baltimore, Maryland
+2. Boston, Massachusetts
+3. Bridgeport, Connecticut
+4. Brunswick, Georgia
+5. Camden, New Jersey
+6. Charleston, South Carolina
+7. Charlottetown, Prince Edward Island
+8. Corner Brook, Newfoundland and Labrador
+9. Fall River, Massachusetts
+10. Georgetown, South Carolina
+11. Halifax, Nova Scotia
+12. Happy Valley-Goose Bay, Newfoundland and Labrador
+13. Jacksonville, Florida
+14. Key West, Florida
+15. Miami, Florida
+16. Morehead City, North Carolina
+17. New Bedford, Massachusetts
+18. New Haven, Connecticut
+19. New London, Connecticut
+20. Philadelphia, Pennsylvania
+21. Port Canaveral, Florida
+22. Port Everglades, Florida
+23. Port of Albany, New York
+24. Port of New Hampshire, New Hampshire
+25. Port of New York and New Jersey, New York and New Jersey
+26. Port of Virginia, Virginia
+27. Portland, Maine
+28. Providence, Rhode Island
+29. Richmond, Virginia
+30. Saint John, New Brunswick
+31. Savannah, Georgia
+32. Searsport, Maine
+33. St. Johns, Newfoundland and Labrador
+34. Sydney, Nova Scotia
+35. Wilmington - Delaware, Delaware
+36. Wilmington - North Carolina, North Carolina
+Enter the number of the port to add to your Route: (-1 to end)
+1
+Enter the number of the port to add to your Route: (-1 to end)
+2
+Enter the number of the port to add to your Route: (-1 to end)
+3
+Enter the number of the port to add to your Route: (-1 to end)
+4
+Enter the number of the port to add to your Route: (-1 to end)
+5
+Enter the number of the port to add to your Route: (-1 to end)
+-1
+Done Building a New Route named Baltimore to Camden
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Port From Route
+4. Reverse Route
+5. Exit
+2
+Which route would you like to use?
+1. Baltimore to Camden
+1
+Baltimore to Camden
+1. Baltimore, Maryland (N39.209 W76.517)
+2. Boston, Massachusetts (N42.351 W71.052)
+3. Bridgeport, Connecticut (N41.172 W73.179)
+4. Brunswick, Georgia (N31.159 W81.5)
+5. Camden, New Jersey (N39.943 W75.104)
+The total miles of this route is 2032.56 miles
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Port From Route
+4. Reverse Route
+5. Exit
+3
+Which route would you like to use?
+1. Baltimore to Camden
+1
+Baltimore to Camden
+1. Baltimore, Maryland (N39.209 W76.517)
+2. Boston, Massachusetts (N42.351 W71.052)
+3. Bridgeport, Connecticut (N41.172 W73.179)
+4. Brunswick, Georgia (N31.159 W81.5)
+5. Camden, New Jersey (N39.943 W75.104)
+Which port would you like to remove?
+2
+Baltimore to Camden
+1. Baltimore, Maryland (N39.209 W76.517)
+2. Bridgeport, Connecticut (N41.172 W73.179)
+3. Brunswick, Georgia (N31.159 W81.5)
+4. Camden, New Jersey (N39.943 W75.104)
+Route named Baltimore to Camden updated
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Port From Route
+4. Reverse Route
+5. Exit
+2
+Which route would you like to use?
+1. Baltimore to Camden
+1
+Baltimore to Camden
+1. Baltimore, Maryland (N39.209 W76.517)
+2. Bridgeport, Connecticut (N41.172 W73.179)
+3. Brunswick, Georgia (N31.159 W81.5)
+4. Camden, New Jersey (N39.943 W75.104)
+The total miles of this route is 1759.43 miles
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Port From Route
+4. Reverse Route
+5. Exit
+3
+Which route would you like to use?
+1. Baltimore to Camden
+1
+Baltimore to Camden
+1. Baltimore, Maryland (N39.209 W76.517)
+2. Bridgeport, Connecticut (N41.172 W73.179)
+3. Brunswick, Georgia (N31.159 W81.5)
+4. Camden, New Jersey (N39.943 W75.104)
+Which port would you like to remove?
+1
+Baltimore to Camden
+1. Bridgeport, Connecticut (N41.172 W73.179)
+2. Brunswick, Georgia (N31.159 W81.5)
+3. Camden, New Jersey (N39.943 W75.104)
+Route named Bridgeport to Camden updated
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Port From Route
+4. Reverse Route
+5. Exit
+2
+Which route would you like to use?
+1. Bridgeport to Camden
+1
+Bridgeport to Camden
+1. Bridgeport, Connecticut (N41.172 W73.179)
+2. Brunswick, Georgia (N31.159 W81.5)
+3. Camden, New Jersey (N39.943 W75.104)
+The total miles of this route is 1537.12 miles
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Port From Route
+4. Reverse Route
+5. Exit
+4
+Which route would you like to use?
+1. Bridgeport to Camden
+1
+Done reversing Route 1
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Port From Route
+4. Reverse Route
+5. Exit
+2
+Which route would you like to use?
+1. Camden to Bridgeport
+1
+Camden to Bridgeport
+1. Camden, New Jersey (N39.943 W75.104)
+2. Brunswick, Georgia (N31.159 W81.5)
+3. Bridgeport, Connecticut (N41.172 W73.179)
+The total miles of this route is 1537.12 miles
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Port From Route
+4. Reverse Route
+5. Exit
+1
+1. Baltimore, Maryland
+2. Boston, Massachusetts
+3. Bridgeport, Connecticut
+4. Brunswick, Georgia
+5. Camden, New Jersey
+6. Charleston, South Carolina
+7. Charlottetown, Prince Edward Island
+8. Corner Brook, Newfoundland and Labrador
+9. Fall River, Massachusetts
+10. Georgetown, South Carolina
+11. Halifax, Nova Scotia
+12. Happy Valley-Goose Bay, Newfoundland and Labrador
+13. Jacksonville, Florida
+14. Key West, Florida
+15. Miami, Florida
+16. Morehead City, North Carolina
+17. New Bedford, Massachusetts
+18. New Haven, Connecticut
+19. New London, Connecticut
+20. Philadelphia, Pennsylvania
+21. Port Canaveral, Florida
+22. Port Everglades, Florida
+23. Port of Albany, New York
+24. Port of New Hampshire, New Hampshire
+25. Port of New York and New Jersey, New York and New Jersey
+26. Port of Virginia, Virginia
+27. Portland, Maine
+28. Providence, Rhode Island
+29. Richmond, Virginia
+30. Saint John, New Brunswick
+31. Savannah, Georgia
+32. Searsport, Maine
+33. St. Johns, Newfoundland and Labrador
+34. Sydney, Nova Scotia
+35. Wilmington - Delaware, Delaware
+36. Wilmington - North Carolina, North Carolina
+Enter the number of the port to add to your Route: (-1 to end)
+30
+Enter the number of the port to add to your Route: (-1 to end)
+29
+Enter the number of the port to add to your Route: (-1 to end)
+3
+Enter the number of the port to add to your Route: (-1 to end)
+15
+Enter the number of the port to add to your Route: (-1 to end)
+-1
+Done Building a New Route named Saint John to Miami
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Port From Route
+4. Reverse Route
+5. Exit
+2
+Which route would you like to use?
+1. Camden to Bridgeport
+2. Saint John to Miami
+2
+Saint John to Miami
+1. Saint John, New Brunswick (N45.307 W65.978)
+2. Richmond, Virginia (N37.457 W77.419)
+3. Bridgeport, Connecticut (N41.172 W73.179)
+4. Miami, Florida (N25.784 W80.183)
+The total miles of this route is 2280.85 miles
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Port From Route
+4. Reverse Route
+5. Exit
+3
+Which route would you like to use?
+1. Camden to Bridgeport
+2. Saint John to Miami
+2
+Saint John to Miami
+1. Saint John, New Brunswick (N45.307 W65.978)
+2. Richmond, Virginia (N37.457 W77.419)
+3. Bridgeport, Connecticut (N41.172 W73.179)
+4. Miami, Florida (N25.784 W80.183)
+Which port would you like to remove?
+1
+Saint John to Miami
+1. Richmond, Virginia (N37.457 W77.419)
+2. Bridgeport, Connecticut (N41.172 W73.179)
+3. Miami, Florida (N25.784 W80.183)
+Route named Richmond to Miami updated
+What would you like to do?: 
+1. Create New Route
+2. Display Route
+3. Remove Port From Route
+4. Reverse Route
+5. Exit
+5
+Routes removed from memory
+Deleting Ports
+Deleting Routes

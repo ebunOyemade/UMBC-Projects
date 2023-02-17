@@ -1,0 +1,36 @@
+Baltimore,Maryland,39.209,76.517
+Boston,Massachusetts,42.351,71.052
+Bridgeport,Connecticut,41.172,73.179
+Brunswick,Georgia,31.159,81.5
+Camden,New Jersey,39.943,75.104
+Charleston,South Carolina,32.789,79.922
+Charlottetown,Prince Edward Island,46.24,63.14
+Corner Brook,Newfoundland and Labrador,48.967,57.95
+Fall River,Massachusetts,41.722,71.159
+Georgetown,South Carolina,33.367,79.29
+Halifax,Nova Scotia,44.65,63.567
+Happy Valley-Goose Bay,Newfoundland and Labrador,53.302,60.417
+Jacksonville,Florida,30.321,81.665
+Key West,Florida,24.559,81.784
+Miami,Florida,25.784,80.183
+Morehead City,North Carolina,34.717,76.724
+New Bedford,Massachusetts,41.652,70.934
+New Haven,Connecticut,41.299,72.905
+New London,Connecticut,41.35,72.106
+Philadelphia,Pennsylvania,39.919,75.202
+Port Canaveral,Florida,28.414,80.608
+Port Everglades,Florida,26.093,80.118
+Port of Albany,New York,42.628,73.757
+Port of New Hampshire,New Hampshire,43.074,70.738
+Port of New York and New Jersey,New York and New Jersey,40.674,74.038
+Port of Virginia,Virginia,36.947,76.33
+Portland,Maine,43.65,70.251
+Providence,Rhode Island,41.812,71.398
+Richmond,Virginia,37.457,77.419
+Saint John,New Brunswick,45.307,65.978
+Savannah,Georgia,32.085,81.095
+Searsport,Maine,44.453,68.925
+St. Johns,Newfoundland and Labrador,47.617,52.75
+Sydney,Nova Scotia,46.138,60.183
+Wilmington - Delaware,Delaware,39.716,75.507
+Wilmington - North Carolina,North Carolina,34.239,77.954
