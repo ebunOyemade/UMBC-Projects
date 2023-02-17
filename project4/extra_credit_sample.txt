@@ -1,0 +1,109 @@
+==3913421== Memcheck, a memory error detector
+==3913421== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==3913421== Using Valgrind-3.17.0 and LibVEX; rerun with -h for copyright info
+==3913421== Command: ./proj4 proj4_ec1.txt
+==3913421==
+Welcome to UMBC Encryption
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. (Oprah Winfrey)(Caesar)
+
+2. Ktw jajwd rnszyj dtz fwj fslwd dtz qtxj xncyd xjhtsix tk mfuunsjxx. (Wfqum Bfqit Jrjwxts)(Caesar)
+
+3. We cannot always build the future of our youth, but we can build our youth for the future. (Franklin D. Roosevelt)(Ong)
+
+4. Pong-e-a-cong-e bong-e-gong-i-nong-song wong-i-tong-hong a song-mong-i-long-e-. (-Mong-o-tong-hong-e-rong Tong-e-rong-e-song-a-)(Ong)
+
+5. Never leave that till tomorrow which you can do today. (Benjamin Franklin)(Vigenere)
+
+6. Whc ueyo tcvt gv nmw wfhtfhr wru yyogg tfls ddijxrc, eeaduqh ymx wmq't. Gw's ukerkep bos oer lt fdrbhn mu sfdmc bos lnrr ildcrlol, rr ukerkep bos oeyun duok lt; ukerkep bos fhmrsc wo nhrqhvcue. (Zdryfk Meakd)(Vigenere)
+
+7. The greatest glory in living lies not in never falling, but in rising every time we fall. (Nelson Mandela)(RailFence)
+
+8. L  euvL  euv( loetelf o ie ietelf o oe BbMre)vhiyl.vhiyl.oay(RailFence)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+2
+4 ciphers Encrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. Mj csy psso ex alex csy lezi mr pmji, csy'pp epaecw lezi qsvi. Mj csy psso ex alex csy hsr'x lezi mr pmji, csy'pp riziv lezi irsykl. (Stvel Amrjvic)(Caesar)
+
+2. Ktw jajwd rnszyj dtz fwj fslwd dtz qtxj xncyd xjhtsix tk mfuunsjxx. (Wfqum Bfqit Jrjwxts)(Caesar)
+
+3. Wong-e cong-a-nong-nong-o-tong a-long-wong-a-yong-song bong-u-i-long-dong tong-hong-e fong-u-tong-u-rong-e o-fong o-u-rong yong-o-u-tong-hong-,ong bong-u-tong wong-e cong-a-nong bong-u-i-long-dong o-u-rong yong-o-u-tong-hong fong-o-rong tong-hong-e fong-u-tong-u-rong-e-. (-Fong-rong-a-nong-kong-long-i-nong Dong-. Rong-o-o-song-e-vong-e-long-tong-)(Ong)
+
+4. Pong-e-a-cong-e bong-e-gong-i-nong-song wong-i-tong-hong a song-mong-i-long-e-. (-Mong-o-tong-hong-e-rong Tong-e-rong-e-song-a-)(Ong)
+
+5. Uektp sepkc ahpi rpla imtoggmd wwxao ydj ahn sd rvdpn. (Zlnypkpn Ugyukaxl)(Vigenere)
+
+6. Whc ueyo tcvt gv nmw wfhtfhr wru yyogg tfls ddijxrc, eeaduqh ymx wmq't. Gw's ukerkep bos oer lt fdrbhn mu sfdmc bos lnrr ildcrlol, rr ukerkep bos oeyun duok lt; ukerkep bos fhmrsc wo nhrqhvcue. (Zdryfk Meakd)(Vigenere)
+
+7. Te  vitea,iiemf(nehratgyiiileo nvflg  nsnvrie a No dlegtslrnln sni e lnbt igeyt el.esMna eo g nriur  wlla)(RailFence)
+
+8. L  euvL  euv( loetelf o ie ietelf o oe BbMre)vhiyl.vhiyl.oay(RailFence)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+3
+8 ciphers Decrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. (Oprah Winfrey)(Caesar)
+
+2. For every minute you are angry you lose sixty seconds of happiness. (Ralph Waldo Emerson)(Caesar)
+
+3. We cannot always build the future of our youth, but we can build our youth for the future. (Franklin D. Roosevelt)(Ong)
+
+4. Peace begins with a smile. (Mother Teresa)(Ong)
+
+5. Never leave that till tomorrow which you can do today. (Benjamin Franklin)(Vigenere)
+
+6. The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere. (Barack Obama)(Vigenere)
+
+7. The greatest glory in living lies not in never falling, but in rising every time we fall. (Nelson Mandela)(RailFence)
+
+8. Love the life you live. Live the life you love. (Bob Marley)(RailFence)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+5
+Thanks for using UMBC Encryption
+==3913421==
+==3913421== HEAP SUMMARY:
+==3913421==     in use at exit: 0 bytes in 0 blocks
+==3913421==   total heap usage: 362 allocs, 362 frees, 97,826 bytes allocated
+==3913421==
+==3913421== All heap blocks were freed -- no leaks are possible
+==3913421==
+==3913421== For lists of detected and suppressed errors, rerun with: -s
+==3913421== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+[jdixon@linux3 extra_credit]$
