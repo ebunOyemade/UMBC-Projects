@@ -1,0 +1,283 @@
+Silver,element,Ag,Ag,
+Barium,element,Ba,Ba,
+Beryllium,element,Be,Be,
+Bromine,element,Br,Br,
+Carbon,element,C,C,
+Calcium,element,Ca,Ca,
+Chlorine,element,Cl,Cl,
+Cobalt,element,Co,Co,
+Chromium,element,Cr,Cr,
+Cesium,element,Cs,Cs,
+Copper,element,Cu,Cu,
+Fluorine,element,F,F,
+Iron,element,Fe,Fe,
+Hydrogen,element,H,H,
+Iodine,element,I,I,
+Potassium,element,K,K,
+Lithium,element,Li,Li,
+Magnesium,element,Mg,Mg,
+Manganese,element,Mn,Mn,
+Nitrogen,element,N,N,
+Sodium,element,Na,Na,
+Nickel,element,Ni,Ni,
+Oxygen,element,O,O,
+Phosphorus,element,P,P,
+Lead,element,Pb,Pb,
+Sulfur,element,S,S,
+Selenium,element,Se,Se,
+Tin,element,Sn,Sn,
+Zinc,element,Zn,Zn,
+Hydroxide,compound,OH,O,H
+Acetate,compound,C2H3O2,C,OH
+Carbonate,compound,CO3,C,O
+Bicarbonate,compound,HCO3,H,CO3
+Nitrate,compound,NO3,N,O
+Chlorate,compound,ClO3,Cl,O
+Permanganate,compound,MnO4,Mn,O
+Chromate,compound,CrO4,Cr,O
+Ammonium,compound,NH4,N,H
+Sulfate,compound,SO4,S,O
+Phosphate,compound,PO4,P,O
+Ammonium Acetate,compound,NH4C2H3O2,NH4,C2H3O2
+Ammonium Chlorate,compound,NH4ClO3,NH4,ClO3
+Ammonium Hydrogen Carbonate,compound,NH4HCO3,NH4,HCO3
+Ammonium Hydroxide,compound,NH4OH,NH4,OH
+Ammonium Oxide,compound,(NH4)2O,NH4,O
+Ammonium Permanganate,compound,NH4MnO4,NH4,MnO4
+Ammonium Selenide,compound,(NH4)2Se,NH4,Se
+Ammonium Sulfide,compound,(NH4)2S,NH4,S
+Barium Acetate,compound,Ba(C2H3O2)2,Ba,C2H3O2
+Barium Bromide,compound,BaBr2,Ba,Br
+Barium Carbonate,compound,BaCO3,Ba,CO3
+Barium Chlorate,compound,Ba(ClO3)2,Ba,ClO3
+Barium Chloride,compound,BaCl2,Ba,Cl
+Barium Chromate,compound,BaCrO4,Ba,CrO4
+Barium Fluoride,compound,BaF2,Ba,F
+Barium Hydrogen Carbonate,compound,Ba(HCO3)2,Ba,HCO3
+Barium Hydroxide,compound,Ba(OH)2,Ba,OH
+Barium Iodide,compound,BaI2,Ba,I
+Barium Nitrate,compound,Ba(NO3)2,Ba,NO3
+Barium Oxide,compound,BaO,Ba,O
+Barium Permanganate,compound,Ba(MnO4)2,Ba,MnO4
+Barium Phosphate,compound,Ba3(PO4)2,Ba,PO4
+Barium Selenide,compound,BaSe,Ba,Se
+Barium Sulfate,compound,BaSO4,Ba,SO4
+Barium Sulfide,compound,BaS,Ba,S
+Beryllium Acetate,compound,Be(C2H3O2)2,Be,C2H3O2
+Beryllium Bromide,compound,BeBr2,Be,Br
+Beryllium Carbonate,compound,BeCO3,Be,CO3
+Beryllium Chlorate,compound,Be(ClO3)2,Be,ClO3
+Beryllium Chloride,compound,BeCl2,Be,Cl
+Beryllium Chromate,compound,BeCrO4,Be,CrO4
+Beryllium Fluoride,compound,BeF2,Be,F
+Beryllium Hydrogen Carbonate,compound,Be(HCO3)2,Be,HCO3
+Beryllium Hydroxide,compound,Be(OH)2,Be,OH
+Beryllium Iodide,compound,BeI2,Be,I
+Beryllium Nitrate,compound,Be(NO3)2,Be,NO3
+Beryllium Oxide,compound,BeO,Be,O
+Beryllium Permanganate,compound,Be(MnO4)2,Be,MnO4
+Beryllium Phosphate,compound,Be3(PO4)2,Be,PO4
+Beryllium Selenide,compound,BeSe,Be,Se
+Beryllium Sulfate,compound,BeSO4,Be,SO4
+Beryllium Sulfide,compound,BeS,Be,S
+Calcium Acetate,compound,Ca(C2H3O2)2,Ca,C2H3O2
+Calcium Bromide,compound,CaBr2,Ca,Br
+Calcium Carbonate,compound,CaCO3,Ca,CO3
+Calcium Chlorate,compound,Ca(ClO3)2,Ca,ClO3
+Calcium Chloride,compound,CaCl2,Ca,Cl
+Calcium Chromate,compound,CaCrO4,Ca,CrO4
+Calcium Fluoride,compound,CaF2,Ca,F
+Calcium Hydrogen Carbonate,compound,Ca(HCO3)2,Ca,HCO3
+Calcium Hydroxide,compound,Ca(OH)2,Ca,OH
+Calcium Iodide,compound,CaI2,Ca,I
+Calcium Nitrate,compound,Ca(NO3)2,Ca,NO3
+Calcium Oxide,compound,CaO,Ca,O
+Calcium Permanganate,compound,Ca(MnO4)2,Ca,MnO4
+Calcium Phosphate,compound,Ca3(PO4)2,Ca,PO4
+Calcium Selenide,compound,CaSe,Ca,Se
+Calcium Sulfate,compound,CaSO4,Ca,SO4
+Calcium Sulfide,compound,CaS,Ca,S
+Cesium Acetate,compound,CsC2H3O2,CsC2H3O2,C2H3O2
+Cesium Bromide,compound,CsBr,Cs,Br
+Cesium Chlorate,compound,CsClO3,CsClO3,ClO3
+Cesium Chloride,compound,CsCl,Cs,Cl
+Cesium Fluoride,compound,CsF,Cs,F
+Cesium Hydrogen Carbonate,compound,CsHCO3,CsHCO3,HCO3
+Cesium Hydroxide,compound,CsOH,CsOH,OH
+Cesium Iodide,compound,CsI,Cs,I
+Cesium Nitrate,compound,CsNO3,CsNO3,NO3
+Cesium Nitride,compound,Cs3N,Cs,N
+Cesium Oxide,compound,Cs2O,Cs,O
+Cesium Permanganate,compound,CsMnO4,CsMnO4,MnO4
+Cesium Phosphide,compound,Cs3P,Cs,P
+Cesium Selenide,compound,Cs2Se,Cs,Se
+Cesium Sulfide,compound,Cs2S,Cs,S
+Cobalt(II) Bromide,compound,CoBr2,Co,Br
+Cobalt(II) Chloride,compound,CoCl2,Co,Cl
+Cobalt(II) Fluoride,compound,CoF2,Co,F
+Cobalt(II) Iodide,compound,CoI2,Co,I
+Cobalt(II) Oxide,compound,CoO,Co,O
+Cobalt(II) Selenide,compound,CoSe,Co,Se
+Cobalt(II) Sulfide,compound,CoS,Co,S
+Cobalt(III) Bromide,compound,CoBr3,Co,Br
+Cobalt(III) Chloride,compound,CoCl3,Co,Cl
+Cobalt(III) Fluoride,compound,CoF3,Co,F
+Cobalt(III) Iodide,compound,CoI3,Co,I
+Copper(I) Bromide,compound,CuBr,Cu,Br
+Copper(I) Chloride,compound,CuCl,Cu,Cl
+Copper(I) Fluoride,compound,CuF,Cu,F
+Copper(I) Iodide,compound,CuI,Cu,I
+Copper(II) Bromide,compound,CuBr2,Cu,Br
+Copper(II) Chloride,compound,CuCl2,Cu,Cl
+Copper(II) Fluoride,compound,CuF2,Cu,F
+Copper(II) Iodide,compound,CuI2,Cu,I
+Copper(II) Oxide,compound,CuO,Cu,O
+Copper(II) Selenide,compound,CuSe,Cu,Se
+Copper(II) Sulfide,compound,CuS,Cu,S
+Hydrogen Acetate,compound,HC2H3O2,H,C2H3O2
+Iron(II) Acetate,compound,Fe(C2H3O2)2,Fe,C2H3O2
+Iron(II) Bromide,compound,FeBr2,Fe,Br
+Iron(II) Carbonate,compound,FeCO3,Fe,CO3
+Iron(II) Chlorate,compound,Fe(ClO3)2,Fe,ClO3
+Iron(II) Chloride,compound,FeCl2,Fe,Cl
+Iron(II) Chromate,compound,FeCrO4,Fe,CrO4
+Iron(II) Fluoride,compound,FeF2,Fe,F
+Iron(II) Hydrogen Carbonate,compound,Fe(HCO3)2,Fe,HCO3
+Iron(II) Hydroxide,compound,Fe(OH)2,Fe,OH
+Iron(II) Iodide,compound,FeI2,Fe,I
+Iron(II) Nitrate,compound,Fe(NO3)2,Fe,NO3
+Iron(II) Oxide,compound,FeO,Fe,O
+Iron(II) Permanganate,compound,Fe(MnO4)2,Fe,MnO4
+Iron(II) Phosphate,compound,Fe3(PO4)2,Fe,PO4
+Iron(II) Selenide,compound,FeSe,Fe,Se
+Iron(II) Sulfate,compound,FeSO4,Fe,SO4
+Iron(II) Sulfide,compound,FeS,Fe,S
+Iron(III) Bromide,compound,FeBr3,Fe,Br
+Iron(III) Chloride,compound,FeCl3,Fe,Cl
+Iron(III) Fluoride,compound,FeF3,Fe,F
+Iron(III) Iodide,compound,FeI3,Fe,I
+Lead(II) Bromide,compound,PbBr2,Pb,Br
+Lead(II) Chloride,compound,PbCl2,Pb,Cl
+Lead(II) Fluoride,compound,PbF2,Pb,F
+Lead(II) Iodide,compound,PbI2,Pb,I
+Lead(II) Oxide,compound,PbO,Pb,O
+Lead(II) Selenide,compound,PbSe,Pb,Se
+Lead(II) Sulfide,compound,PbS,Pb,S
+Lead(IV) Bromide,compound,PbBr4,Pb,Br
+Lead(IV) Chloride,compound,PbCl4,Pb,Cl
+Lead(IV) Fluoride,compound,PbF4,Pb,F
+Lead(IV) Iodide,compound,PBI4,PB,I
+Lithium Acetate,compound,LiC2H302,Li,C2H3O2
+Lithium Bromide,compound,LiBr,Li,Br
+Lithium Chlorate,compound,LiClO3,Li,ClO3
+Lithium Chloride,compound,LiCl,Li,Cl
+Lithium Fluoride,compound,LiF,Li,F
+Lithium Hydrogen Carbonate,compound,LiHCO3,Li,HCO3
+Lithium Hydroxide,compound,LiOH,Li,OH
+Lithium Iodide,compound,LiI,Li,I
+Lithium Nitrate,compound,LiNO3,Li,NO3
+Lithium Nitride,compound,Li3N,Li,N
+Lithium Oxide,compound,Li2O,Li,O
+Lithium Permanganate,compound,LiMnO4,Li,MnO4
+Lithium Phosphide,compound,Li3P,Li,P
+Lithium Selenide,compound,Li2Se,Li,Se
+Lithium Sulfide,compound,Li2S,Li,S
+Magnesium Acetate,compound,Mg(C2H3O2)2,Mg,C2H3O2
+Magnesium Bromide,compound,MgBr2,Mg,Br
+Magnesium Carbonate,compound,MgCO3,Mg,CO3
+Magnesium Chlorate,compound,Mg(ClO3)2,Mg,ClO3
+Magnesium Chloride,compound,MgCl2,Mg,Cl
+Magnesium Chromate,compound,MgCrO4,Mg,CrO4
+Magnesium Fluoride,compound,MgF2,Mg,F
+Magnesium Hydrogen Carbonate,compound,Mg(HCO3)2,Mg,HCO3
+Magnesium Hydroxide,compound,Mg(OH)2,Mg,OH
+Magnesium Iodide,compound,MgI2,Mg,I
+Magnesium Nitrate,compound,Mg(NO3)2,Mg,NO3
+Magnesium Oxide,compound,MgO,Mg,O
+Magnesium Permanganate,compound,Mg(MnO4)2,Mg,MnO4
+Magnesium Phosphate,compound,Mg3(PO4)2,Mg,PO4
+Magnesium Selenide,compound,MgSe,Mg,Se
+Magnesium Sulfate,compound,MgSO4,Mg,SO4
+Magnesium Sulfide,compound,MgS,Mg,S
+Nickel(II) Bromide,compound,NiBr2,Ni,Br
+Nickel(II) Chloride,compound,NiCl2,Ni,Cl
+Nickel(II) Fluoride,compound,NiF2,Ni,F
+Nickel(II) Iodide,compound,NiI2,Ni,I
+Nickel(II) Oxide,compound,NiO,Ni,O
+Nickel(II) Selenide,compound,NiSe,Ni,Se
+Nickel(II) Sulfide,compound,NIS,NI,S
+Nickel(III) Bromide,compound,NiBr3,Ni,Br
+Nickel(III) Chloride,compound,NiCl3,Ni,Cl
+Nickel(III) Fluoride,compound,NiF3,Ni,F
+Nickel(III) Iodide,compound,NiI3,Ni,I
+Potassium Acetate,compound,KC2H3O2,K,C2H3O2
+Potassium Bromide,compound,KBr,K,Br
+Potassium Chlorate,compound,KClO3,K,ClO3
+Potassium Chloride,compound,KCl,K,Cl
+Potassium Fluoride,compound,KF,K,F
+Potassium Hydrogen Carbonate,compound,KHCO3,K,HCO3
+Potassium Hydroxide,compound,KOH,K,OH
+Potassium Iodide,compound,KI,K,I
+Potassium Nitrate,compound,KNO3,K,NO3
+Potassium Nitride,compound,K3N,K,N
+Potassium Oxide,compound,K2O,K,O
+Potassium Permanganate,compound,KMnO4,K,MnO4
+Potassium Selenide,compound,K2Se,K,Se
+Potassium Sulfide,compound,K2S,K,S
+Potassoum Phosphide,compound,K3P,K,P
+Silver Acetate,compound,AgC2H3O2,Ag,C2H3O2
+Silver Bromide,compound,AgBr,Ag,Br
+Silver Chlorate,compound,AgClO3,Ag,ClO3
+Silver Chloride,compound,AgCl,Ag,Cl
+Silver Fluoride,compound,AgF,Ag,F
+Silver Hydrogen Carbonate,compound,AgHCO3,Ag,HCO3
+Silver Hydroxide,compound,AgOH,Ag,OH
+Silver Iodide,compound,AgI,Ag,I
+Silver Nitrate,compound,AgNO3,Ag,NO3
+Silver Oxide,compound,Ag2O,Ag,O
+Silver Permanganate,compound,AgMnO4,Ag,MnO4
+Silver Selenide,compound,Ag2Se,Ag,Se
+Silver Sulfide,compound,Ag2S,Ag,S
+Sodium Acetate,compound,NaC2H3O2,Na,C2H3O2
+Sodium Bromide,compound,NaBr,Na,Br
+Sodium Chlorate,compound,NaClO3,Na,ClO3
+Sodium Chloride,compound,NaCl,Na,Cl
+Sodium Fluoride,compound,NaF,Na,F
+Sodium Hydrogen Carbonate,compound,NaHCO3,Na,HCO3
+Sodium Hydroxide,compound,NaOH,Na,OH
+Sodium Iodide,compound,NaI,Na,I
+Sodium Nitrate,compound,NaNO3,Na,NO3
+Sodium Nitride,compound,Na3N,Na,N
+Sodium Oxide,compound,Na2S,Na,S
+Sodium Permanganate,compound,NaMnO4,Na,MnO4
+Sodium Phosphide,compound,Na3P,Na,P
+Sodium Selenide,compound,Na2Se,Na,Se
+Sodium Sulfide,compound,Na2S,Na,S
+Tin(II) Bromide,compound,SnBr2,Sn,Br
+Tin(II) Chloride,compound,SnCl2,Sn,Cl
+Tin(II) Fluoride,compound,SnF2,Sn,F
+Tin(II) Iodide,compound,SnI2,Sn,I
+Tin(II) Oxide,compound,SnO,Sn,O
+Tin(II) Selenide,compound,SnSe,Sn,Se
+Tin(II) Sulfide,compound,SnS,Sn,S
+Tin(IV) Bromide,compound,SnBr4,Sn,Br
+Tin(IV) Chloride,compound,SnCl4,Sn,Cl
+Tin(IV) Fluoride,compound,SnF4,Sn,F
+Tin(IV) Iodide,compound,SnI4,Sn,I
+Zinc Acetate,compound,Zn(C2H3O2)2,Zn,C2H3O2
+Zinc Bromide,compound,ZnBr2,Zn,Br
+Zinc Carbonate,compound,ZnCO3,Zn,CO3
+Zinc Chlorate,compound,Zn(ClO3)2,Zn,ClO3
+Zinc Chloride,compound,ZnCl2,Zn,Cl
+Zinc Chromate,compound,ZnCrO4,Zn,CrO4
+Zinc Fluoride,compound,ZnF2,Zn,F
+Zinc Hydrogen Carbonate,compound,Zn(HCO3)2,Zn,HCO3
+Zinc Hydroxide,compound,Zn(OH)2,Zn,OH
+Zinc Iodide,compound,ZnI2,Zn,I
+Zinc Nitrate,compound,Zn(NO3)2,Zn,NO3
+Zinc Oxide,compound,ZnO,Zn,O
+Zinc Permanganate,compound,Zn(MnO4)2,Zn,MnO4
+Zinc Phosphate,compound,Zn3(PO4)2,Zn,PO4
+Zinc Selenide,compound,ZnSe,Zn,Se
+Zinc Sulfate,compound,ZnSO4,Zn,SO4
+Zinc Sulfide,compound,ZnS,Zn,S

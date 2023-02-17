@@ -1,0 +1,649 @@
+*******************************************************************
+LL      AAA    BBB    OOOO  RRR    AAA   TTTTT  OOOO  RRR   YY  YY 
+LL     A   A   B  B   O  O  R  R  A   A    T    O  O  R  R   Y  Y  
+LL     AAAAA   B  B   O  O  R  R  AAAAA    T    O  O  R  R    YY   
+LL     A   A   BBBB   O  O  RRR   A   A    T    O  O  RRR     YY   
+LL     A   A   B  B   O  O  R  R  A   A    T    O  O  R R     YY   
+LLLLL  A   A   B  B   O  O  R  R  A   A    T    O  O  R  R    YY   
+LLLLL  A   A   BBB    OOOO  R  R  A   A    T    OOOO  R  R    YY   
+*******************************************************************
+283 substances loaded.
+What is the name of your Chemist?
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+1
+My chemist has 0 different substances in inventory currently
+You haven't found any substances yet. Try to search for some elements!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Manganese Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Cesium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Silver Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Phosphorus Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+1
+My chemist has 4 different substances in inventory currently
+1. Silver (Ag) 1
+2. Barium (Ba) 0
+3. Beryllium (Be) 0
+4. Bromine (Br) 0
+5. Carbon (C) 0
+6. Calcium (Ca) 0
+7. Chlorine (Cl) 0
+8. Cobalt (Co) 0
+9. Chromium (Cr) 0
+10. Cesium (Cs) 1
+11. Copper (Cu) 0
+12. Fluorine (F) 0
+13. Iron (Fe) 0
+14. Hydrogen (H) 0
+15. Iodine (I) 0
+16. Potassium (K) 0
+17. Lithium (Li) 0
+18. Magnesium (Mg) 0
+19. Manganese (Mn) 1
+20. Nitrogen (N) 0
+21. Sodium (Na) 0
+22. Nickel (Ni) 0
+23. Oxygen (O) 0
+24. Phosphorus (P) 1
+25. Lead (Pb) 0
+26. Sulfur (S) 0
+27. Selenium (Se) 0
+28. Tin (Sn) 0
+29. Zinc (Zn) 0
+30. Hydroxide (OH) 0
+31. Acetate (C2H3O2) 0
+32. Carbonate (CO3) 0
+33. Bicarbonate (HCO3) 0
+34. Nitrate (NO3) 0
+35. Chlorate (ClO3) 0
+36. Permanganate (MnO4) 0
+37. Chromate (CrO4) 0
+38. Ammonium (NH4) 0
+39. Sulfate (SO4) 0
+40. Phosphate (PO4) 0
+41. Ammonium Acetate (NH4C2H3O2) 0
+42. Ammonium Chlorate (NH4ClO3) 0
+43. Ammonium Hydrogen Carbonate (NH4HCO3) 0
+44. Ammonium Hydroxide (NH4OH) 0
+45. Ammonium Oxide ((NH4)2O) 0
+46. Ammonium Permanganate (NH4MnO4) 0
+47. Ammonium Selenide ((NH4)2Se) 0
+48. Ammonium Sulfide ((NH4)2S) 0
+49. Barium Acetate (Ba(C2H3O2)2) 0
+50. Barium Bromide (BaBr2) 0
+51. Barium Carbonate (BaCO3) 0
+52. Barium Chlorate (Ba(ClO3)2) 0
+53. Barium Chloride (BaCl2) 0
+54. Barium Chromate (BaCrO4) 0
+55. Barium Fluoride (BaF2) 0
+56. Barium Hydrogen Carbonate (Ba(HCO3)2) 0
+57. Barium Hydroxide (Ba(OH)2) 0
+58. Barium Iodide (BaI2) 0
+59. Barium Nitrate (Ba(NO3)2) 0
+60. Barium Oxide (BaO) 0
+61. Barium Permanganate (Ba(MnO4)2) 0
+62. Barium Phosphate (Ba3(PO4)2) 0
+63. Barium Selenide (BaSe) 0
+64. Barium Sulfate (BaSO4) 0
+65. Barium Sulfide (BaS) 0
+66. Beryllium Acetate (Be(C2H3O2)2) 0
+67. Beryllium Bromide (BeBr2) 0
+68. Beryllium Carbonate (BeCO3) 0
+69. Beryllium Chlorate (Be(ClO3)2) 0
+70. Beryllium Chloride (BeCl2) 0
+71. Beryllium Chromate (BeCrO4) 0
+72. Beryllium Fluoride (BeF2) 0
+73. Beryllium Hydrogen Carbonate (Be(HCO3)2) 0
+74. Beryllium Hydroxide (Be(OH)2) 0
+75. Beryllium Iodide (BeI2) 0
+76. Beryllium Nitrate (Be(NO3)2) 0
+77. Beryllium Oxide (BeO) 0
+78. Beryllium Permanganate (Be(MnO4)2) 0
+79. Beryllium Phosphate (Be3(PO4)2) 0
+80. Beryllium Selenide (BeSe) 0
+81. Beryllium Sulfate (BeSO4) 0
+82. Beryllium Sulfide (BeS) 0
+83. Calcium Acetate (Ca(C2H3O2)2) 0
+84. Calcium Bromide (CaBr2) 0
+85. Calcium Carbonate (CaCO3) 0
+86. Calcium Chlorate (Ca(ClO3)2) 0
+87. Calcium Chloride (CaCl2) 0
+88. Calcium Chromate (CaCrO4) 0
+89. Calcium Fluoride (CaF2) 0
+90. Calcium Hydrogen Carbonate (Ca(HCO3)2) 0
+91. Calcium Hydroxide (Ca(OH)2) 0
+92. Calcium Iodide (CaI2) 0
+93. Calcium Nitrate (Ca(NO3)2) 0
+94. Calcium Oxide (CaO) 0
+95. Calcium Permanganate (Ca(MnO4)2) 0
+96. Calcium Phosphate (Ca3(PO4)2) 0
+97. Calcium Selenide (CaSe) 0
+98. Calcium Sulfate (CaSO4) 0
+99. Calcium Sulfide (CaS) 0
+100. Cesium Acetate (CsC2H3O2) 0
+101. Cesium Bromide (CsBr) 0
+102. Cesium Chlorate (CsClO3) 0
+103. Cesium Chloride (CsCl) 0
+104. Cesium Fluoride (CsF) 0
+105. Cesium Hydrogen Carbonate (CsHCO3) 0
+106. Cesium Hydroxide (CsOH) 0
+107. Cesium Iodide (CsI) 0
+108. Cesium Nitrate (CsNO3) 0
+109. Cesium Nitride (Cs3N) 0
+110. Cesium Oxide (Cs2O) 0
+111. Cesium Permanganate (CsMnO4) 0
+112. Cesium Phosphide (Cs3P) 0
+113. Cesium Selenide (Cs2Se) 0
+114. Cesium Sulfide (Cs2S) 0
+115. Cobalt(II) Bromide (CoBr2) 0
+116. Cobalt(II) Chloride (CoCl2) 0
+117. Cobalt(II) Fluoride (CoF2) 0
+118. Cobalt(II) Iodide (CoI2) 0
+119. Cobalt(II) Oxide (CoO) 0
+120. Cobalt(II) Selenide (CoSe) 0
+121. Cobalt(II) Sulfide (CoS) 0
+122. Cobalt(III) Bromide (CoBr3) 0
+123. Cobalt(III) Chloride (CoCl3) 0
+124. Cobalt(III) Fluoride (CoF3) 0
+125. Cobalt(III) Iodide (CoI3) 0
+126. Copper(I) Bromide (CuBr) 0
+127. Copper(I) Chloride (CuCl) 0
+128. Copper(I) Fluoride (CuF) 0
+129. Copper(I) Iodide (CuI) 0
+130. Copper(II) Bromide (CuBr2) 0
+131. Copper(II) Chloride (CuCl2) 0
+132. Copper(II) Fluoride (CuF2) 0
+133. Copper(II) Iodide (CuI2) 0
+134. Copper(II) Oxide (CuO) 0
+135. Copper(II) Selenide (CuSe) 0
+136. Copper(II) Sulfide (CuS) 0
+137. Hydrogen Acetate (HC2H3O2) 0
+138. Iron(II) Acetate (Fe(C2H3O2)2) 0
+139. Iron(II) Bromide (FeBr2) 0
+140. Iron(II) Carbonate (FeCO3) 0
+141. Iron(II) Chlorate (Fe(ClO3)2) 0
+142. Iron(II) Chloride (FeCl2) 0
+143. Iron(II) Chromate (FeCrO4) 0
+144. Iron(II) Fluoride (FeF2) 0
+145. Iron(II) Hydrogen Carbonate (Fe(HCO3)2) 0
+146. Iron(II) Hydroxide (Fe(OH)2) 0
+147. Iron(II) Iodide (FeI2) 0
+148. Iron(II) Nitrate (Fe(NO3)2) 0
+149. Iron(II) Oxide (FeO) 0
+150. Iron(II) Permanganate (Fe(MnO4)2) 0
+151. Iron(II) Phosphate (Fe3(PO4)2) 0
+152. Iron(II) Selenide (FeSe) 0
+153. Iron(II) Sulfate (FeSO4) 0
+154. Iron(II) Sulfide (FeS) 0
+155. Iron(III) Bromide (FeBr3) 0
+156. Iron(III) Chloride (FeCl3) 0
+157. Iron(III) Fluoride (FeF3) 0
+158. Iron(III) Iodide (FeI3) 0
+159. Lead(II) Bromide (PbBr2) 0
+160. Lead(II) Chloride (PbCl2) 0
+161. Lead(II) Fluoride (PbF2) 0
+162. Lead(II) Iodide (PbI2) 0
+163. Lead(II) Oxide (PbO) 0
+164. Lead(II) Selenide (PbSe) 0
+165. Lead(II) Sulfide (PbS) 0
+166. Lead(IV) Bromide (PbBr4) 0
+167. Lead(IV) Chloride (PbCl4) 0
+168. Lead(IV) Fluoride (PbF4) 0
+169. Lead(IV) Iodide (PBI4) 0
+170. Lithium Acetate (LiC2H302) 0
+171. Lithium Bromide (LiBr) 0
+172. Lithium Chlorate (LiClO3) 0
+173. Lithium Chloride (LiCl) 0
+174. Lithium Fluoride (LiF) 0
+175. Lithium Hydrogen Carbonate (LiHCO3) 0
+176. Lithium Hydroxide (LiOH) 0
+177. Lithium Iodide (LiI) 0
+178. Lithium Nitrate (LiNO3) 0
+179. Lithium Nitride (Li3N) 0
+180. Lithium Oxide (Li2O) 0
+181. Lithium Permanganate (LiMnO4) 0
+182. Lithium Phosphide (Li3P) 0
+183. Lithium Selenide (Li2Se) 0
+184. Lithium Sulfide (Li2S) 0
+185. Magnesium Acetate (Mg(C2H3O2)2) 0
+186. Magnesium Bromide (MgBr2) 0
+187. Magnesium Carbonate (MgCO3) 0
+188. Magnesium Chlorate (Mg(ClO3)2) 0
+189. Magnesium Chloride (MgCl2) 0
+190. Magnesium Chromate (MgCrO4) 0
+191. Magnesium Fluoride (MgF2) 0
+192. Magnesium Hydrogen Carbonate (Mg(HCO3)2) 0
+193. Magnesium Hydroxide (Mg(OH)2) 0
+194. Magnesium Iodide (MgI2) 0
+195. Magnesium Nitrate (Mg(NO3)2) 0
+196. Magnesium Oxide (MgO) 0
+197. Magnesium Permanganate (Mg(MnO4)2) 0
+198. Magnesium Phosphate (Mg3(PO4)2) 0
+199. Magnesium Selenide (MgSe) 0
+200. Magnesium Sulfate (MgSO4) 0
+201. Magnesium Sulfide (MgS) 0
+202. Nickel(II) Bromide (NiBr2) 0
+203. Nickel(II) Chloride (NiCl2) 0
+204. Nickel(II) Fluoride (NiF2) 0
+205. Nickel(II) Iodide (NiI2) 0
+206. Nickel(II) Oxide (NiO) 0
+207. Nickel(II) Selenide (NiSe) 0
+208. Nickel(II) Sulfide (NIS) 0
+209. Nickel(III) Bromide (NiBr3) 0
+210. Nickel(III) Chloride (NiCl3) 0
+211. Nickel(III) Fluoride (NiF3) 0
+212. Nickel(III) Iodide (NiI3) 0
+213. Potassium Acetate (KC2H3O2) 0
+214. Potassium Bromide (KBr) 0
+215. Potassium Chlorate (KClO3) 0
+216. Potassium Chloride (KCl) 0
+217. Potassium Fluoride (KF) 0
+218. Potassium Hydrogen Carbonate (KHCO3) 0
+219. Potassium Hydroxide (KOH) 0
+220. Potassium Iodide (KI) 0
+221. Potassium Nitrate (KNO3) 0
+222. Potassium Nitride (K3N) 0
+223. Potassium Oxide (K2O) 0
+224. Potassium Permanganate (KMnO4) 0
+225. Potassium Selenide (K2Se) 0
+226. Potassium Sulfide (K2S) 0
+227. Potassoum Phosphide (K3P) 0
+228. Silver Acetate (AgC2H3O2) 0
+229. Silver Bromide (AgBr) 0
+230. Silver Chlorate (AgClO3) 0
+231. Silver Chloride (AgCl) 0
+232. Silver Fluoride (AgF) 0
+233. Silver Hydrogen Carbonate (AgHCO3) 0
+234. Silver Hydroxide (AgOH) 0
+235. Silver Iodide (AgI) 0
+236. Silver Nitrate (AgNO3) 0
+237. Silver Oxide (Ag2O) 0
+238. Silver Permanganate (AgMnO4) 0
+239. Silver Selenide (Ag2Se) 0
+240. Silver Sulfide (Ag2S) 0
+241. Sodium Acetate (NaC2H3O2) 0
+242. Sodium Bromide (NaBr) 0
+243. Sodium Chlorate (NaClO3) 0
+244. Sodium Chloride (NaCl) 0
+245. Sodium Fluoride (NaF) 0
+246. Sodium Hydrogen Carbonate (NaHCO3) 0
+247. Sodium Hydroxide (NaOH) 0
+248. Sodium Iodide (NaI) 0
+249. Sodium Nitrate (NaNO3) 0
+250. Sodium Nitride (Na3N) 0
+251. Sodium Oxide (Na2S) 0
+252. Sodium Permanganate (NaMnO4) 0
+253. Sodium Phosphide (Na3P) 0
+254. Sodium Selenide (Na2Se) 0
+255. Sodium Sulfide (Na2S) 0
+256. Tin(II) Bromide (SnBr2) 0
+257. Tin(II) Chloride (SnCl2) 0
+258. Tin(II) Fluoride (SnF2) 0
+259. Tin(II) Iodide (SnI2) 0
+260. Tin(II) Oxide (SnO) 0
+261. Tin(II) Selenide (SnSe) 0
+262. Tin(II) Sulfide (SnS) 0
+263. Tin(IV) Bromide (SnBr4) 0
+264. Tin(IV) Chloride (SnCl4) 0
+265. Tin(IV) Fluoride (SnF4) 0
+266. Tin(IV) Iodide (SnI4) 0
+267. Zinc Acetate (Zn(C2H3O2)2) 0
+268. Zinc Bromide (ZnBr2) 0
+269. Zinc Carbonate (ZnCO3) 0
+270. Zinc Chlorate (Zn(ClO3)2) 0
+271. Zinc Chloride (ZnCl2) 0
+272. Zinc Chromate (ZnCrO4) 0
+273. Zinc Fluoride (ZnF2) 0
+274. Zinc Hydrogen Carbonate (Zn(HCO3)2) 0
+275. Zinc Hydroxide (Zn(OH)2) 0
+276. Zinc Iodide (ZnI2) 0
+277. Zinc Nitrate (Zn(NO3)2) 0
+278. Zinc Oxide (ZnO) 0
+279. Zinc Permanganate (Zn(MnO4)2) 0
+280. Zinc Phosphate (Zn3(PO4)2) 0
+281. Zinc Selenide (ZnSe) 0
+282. Zinc Sulfate (ZnSO4) 0
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Lithium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Phosphorus Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Barium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Beryllium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Zinc Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Sulfur Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Chromium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Oxygen Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Nitrogen Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Iron Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Cobalt Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Fluorine Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Nickel Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Potassium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Chromium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Potassium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+3
+Which substances would you like to merge?
+To list known substances enter -1
+Which substances would you like to merge?
+To list known substances enter -1
+Be combined with O to make Beryllium Oxide!
+Your chemist has built Beryllium Oxide.
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+3
+Which substances would you like to merge?
+To list known substances enter -1
+Which substances would you like to merge?
+To list known substances enter -1
+You do not have enough Bromine or Beryllium to attempt that merge
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+4
+***The Chemist***
+The Great Chemist JD
+There are 283 substances available to find
+You have found 16 so far.
+This is 5.65371%
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Sodium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Sodium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Oxygen Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Calcium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Magnesium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Fluorine Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Selenium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Silver Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Bromine Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Chromium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Cesium Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+2
+Nitrogen Found!
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+3
+Which substances would you like to merge?
+To list known substances enter -1
+Which substances would you like to merge?
+To list known substances enter -1
+N combined with O to make Nitrate!
+Your chemist has built Nitrate.
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+3
+Which substances would you like to merge?
+To list known substances enter -1
+Which substances would you like to merge?
+To list known substances enter -1
+NO3 combined with Ba to make Barium Nitrate!
+Your chemist has built Barium Nitrate.
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+4
+***The Chemist***
+The Great Chemist JD
+There are 283 substances available to find
+You have found 21 so far.
+This is 7.42049%
+What would you like to do?
+1. Display your Chemist's Substances
+2. Search for Elements
+3. Attempt to Merge Substances
+4. See Score
+5. Quit
+5
+Thanks for practicing chemistry!
