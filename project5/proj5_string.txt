@@ -1,0 +1,54 @@
+Science & Nature|What does the first w in "www" stand for in a website browser?|string|1|world
+General|What geometric shape is generally used for stop signs?|string|1|octagon
+General|What is the name of the biggest technology company in South Korea?|string|2|samsung
+Science & Nature|Who was the first woman to win a Nobel Prize in 1903 (last name)?|string|3|curie
+Food & Drink|What is the name given to Indian food cooked over charcoal in a clay oven?|string|3|tandoori
+Food & Drink|What is the most consumed manufactured drink in the world?|string|2|tea
+Entertainment|Who created Sherlock Holmes? (last name)|string|2|doyle
+Science & Nature|What Is The Study Of Low Temperatures Called?|string|3|cryogenics
+History & Holidays|What English city was known to the Romans as Venta Bulgarum?|string|5|winchester
+Science & Nature|What is the symbol for iron in chemistry?|string|5|fe
+Entertainment|Which member of the Beatles married Yoko Ono? (last name)|string|2|lennon
+Geography|What is the capital of North Carolina?|string|4|raleigh
+Entertainment|What job was Sting before he was a rock star?|string|5|teacher
+General|What is compressed snow also called?|string|4|neve
+General|Adolph Hitler had what type of phobia?|string|3|claustrophobia
+Entertainment|What famous US festival hosted over 350,000 fans in 1969?|string|3|woodstock
+General|In the Bible, who is the Book of Proverbs attributed to?|string|2|solomon
+General|Who kept searching for his long lost salt shaker? (Last Name)|string|2|buffet
+General| The feeling of having experienced something before is known as _______? (one word)|string|1|Dejavu
+History & Holidays|What was the leading cause of death in the late 19th century?|string|2|tuberculosis
+General|Who was the first novelist to present a typed manuscript to his publisher? (last name)|string|5|twain
+Science & Nature| Despite man's fear and hatred of the wolf, it has not ever been proved that a non_rabid wolf ever attacked a __________?|string|5|human
+Science & Nature|What does the L in LPG stands for?|string|4|liquid
+General|What school does Harry Potter attend?|string|1|hogwarts
+General|Which company, during the 1984 Super Bowl, aired what is considered one of the best commercials in TV history?|string|2|apple
+Entertainment|Who In The World Of Music Has The Real Name Of Derek Dick?|string|3|fish 
+Entertainment|"Radio Gaga" Was A 1984 Hit For What Band?|string|3|queen
+General|The world's smallest mammal is this type of ___ bat of Thailand, weighing less than a penny?|string|2|bumblebee
+General|The treatment of disease by chemical substances which are toxic to the causative micro-organisms is called ____________?|string|5|chemotherapy
+General|What animal is responsible for most deaths in the USA annually?|string|2|dogs
+Geography|Where would you be if you landed smack in the middle of Plock?|string|5|poland 
+General|What is the fear of heredity known as?|string|1|patroiophobia
+General|License Plates: What job does SRREAL have?|string|3|artist
+Science & Nature|A Phon is a unit of what?|string|3|loudness 
+General|Who was the law for a shire?|string|2|reeve
+General|What lies east of Mauritius?|string|3|australia
+General|Cushat, Rock and Stock are all types of this bird?|string|2|doves
+Geography|What is the capital of Liberia?|string|5|monrovia
+History & Holidays|In which war was the charge of the Light Brigade?|string|5|crimean
+Entertainment|"Dancing With Tears In My Eyes" Was A 1984 Hit For Which Group?|string|5|ultravox
+Sports & Leisure|Which Country Hosted The Olympic Games In 2004?|string|5|greece
+General|In a nod to the bird depicted on its face, the dollar coin of Canada is affectionately known as what?|string|2|loonie
+Entertainment|In a nod to the venue where they were traditionally worn,women's gloves that extend to the elbow are called what?|string|3|opera
+History & Holidays|In a non-leap year, April Fools' Day would fall on what numerical day of the year?|string|3|91
+Food & Drink|In a pinch, which kind of soda can be used to put out a kitchen fire?|string|2|baking
+Entertainment|In a popular version of the children's tune "The Wheels on the Bus,” the "driver on the bus says move on ________"?|string|1|back
+Entertainment|In a popular '80s cartoon,what creatures often sing a catchy tune with the simple lyrics "La la la la la la,la la la la la"?|string|1|smurfs
+Entertainment|In a popular '80s TV theme,"You take the good,you take the bad,you take them both,and there you have facts of _______"?|string|2|life
+Entertainment|In a public statement,Justin Timberlake famously blamed the 2004 Super Bowl halftime debacle a wardrobe _________?|string|2|malfunction
+Food & Drink|In a recent fast food survey by Zagat,Five Guys defeated In-N-Out having the best _________?|string|2|burger
+Entertainment|In a running joke,Bugs Bunny frequently finds himself in strange locations after taking a wrong turn in what city?|string|5|albuquerque
+Entertainment|In a song title on Michael Jackson's 1982 "Thriller" album, what does the P in "P.Y.T." stand for?|string|4|pretty
+General|In a standard Sudoku game, how many individual digits are there once the entire grid has been filled?|string|5|81
+General|In a T-bone steak, the meat is attached to what "T"-shaped bone?|string|4|vertebra

@@ -1,0 +1,163 @@
+valgrind ./proj5 proj5_string.txt string
+Welcome to UMBC Trivia!
+Choose an option.
+1. Display Subjects 
+2. Start Subject 
+3. Quit 
+1
+Possible Subjects:
+1. Science & Nature
+2. General
+3. Food & Drink
+4. Entertainment
+5. History & Holidays
+6. Geography
+7. Sports & Leisure
+Choose an option.
+1. Display Subjects 
+2. Start Subject 
+3. Quit 
+2
+What subject would you like to attempt?
+Possible Subjects:
+1. Science & Nature
+2. General
+3. Food & Drink
+4. Entertainment
+5. History & Holidays
+6. Geography
+7. Sports & Leisure
+3
+There are 4 questions in this subject.
+1. Question: What is the name given to Indian food cooked over charcoal in a clay oven?
+Please answer with a(n) string.
+
+tandoori
+Correct
+2. Question: What is the most consumed manufactured drink in the world?
+Please answer with a(n) string.
+
+tea
+Correct
+3. Question: In a pinch, which kind of soda can be used to put out a kitchen fire?
+Please answer with a(n) string.
+
+baking
+Correct
+4. Question: In a recent fast food survey by Zagat,Five Guys defeated In-N-Out having the best _________?
+Please answer with a(n) string.
+
+burger
+Correct
+You got 4 answers correct.
+You got 0 answers incorrect.
+Which is a 100%.
+Choose an option.
+1. Display Subjects 
+2. Start Subject 
+3. Quit 
+Please enter a valid option.
+Choose an option.
+1. Display Subjects 
+2. Start Subject 
+3. Quit 
+Please enter a valid option.
+Choose an option.
+1. Display Subjects 
+2. Start Subject 
+3. Quit 
+2
+What subject would you like to attempt?
+Possible Subjects:
+1. Science & Nature
+2. General
+3. Food & Drink
+4. Entertainment
+5. History & Holidays
+6. Geography
+7. Sports & Leisure
+5
+There are 4 questions in this subject.
+1. Question: What English city was known to the Romans as Venta Bulgarum?
+Please answer with a(n) string.
+
+london
+Incorrect
+2. Question: What was the leading cause of death in the late 19th century?
+Please answer with a(n) string.
+
+plague
+Incorrect
+3. Question: In which war was the charge of the Light Brigade?
+Please answer with a(n) string.
+
+crimean
+Correct
+4. Question: In a non-leap year, April Fools' Day would fall on what numerical day of the year?
+Please answer with a(n) string.
+
+six
+Incorrect
+You got 1 answers correct.
+You got 3 answers incorrect.
+Which is a 25%.
+Choose an option.
+1. Display Subjects 
+2. Start Subject 
+3. Quit 
+2
+What subject would you like to attempt?
+Possible Subjects:
+1. Science & Nature
+2. General
+3. Food & Drink
+4. Entertainment
+5. History & Holidays
+6. Geography
+7. Sports & Leisure
+1
+There are 7 questions in this subject.
+1. Question: What does the first w in "www" stand for in a website browser?
+Please answer with a(n) string.
+
+world
+Correct
+2. Question: Who was the first woman to win a Nobel Prize in 1903 (last name)?
+Please answer with a(n) string.
+
+curie
+Correct
+3. Question: What Is The Study Of Low Temperatures Called?
+Please answer with a(n) string.
+
+cryogenics
+Correct
+4. Question: What is the symbol for iron in chemistry?
+Please answer with a(n) string.
+
+fe
+Correct
+5. Question:  Despite man's fear and hatred of the wolf, it has not ever been proved that a non_rabid wolf ever attacked a __________?
+Please answer with a(n) string.
+
+human
+Correct
+6. Question: What does the L in LPG stands for?
+Please answer with a(n) string.
+
+liquid
+Correct
+7. Question: A Phon is a unit of what?
+Please answer with a(n) string.
+
+light
+Incorrect
+You got 6 answers correct.
+You got 1 answers incorrect.
+Which is a 85.7143%.
+Choose an option.
+1. Display Subjects 
+2. Start Subject 
+3. Quit 
+3
+Thank you trying UMBC Trivia!
